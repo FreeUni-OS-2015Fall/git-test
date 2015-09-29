@@ -1,25 +1,21 @@
-#ProjectN - Project Name
-> Homework project NN for **MACS, OS101, [FUT](http://freeuni.edu.ge)** - 2015 Fall
+#Project Zaza
+> Homework project Zaza for **MACS, OS101, [FUT](http://freeuni.edu.ge)** - 2015 Fall
 
 #Introduction
-intro of the project
+პროგრამა fsh (free shell) 'unix shell'-ის ერთ-ერთი იმპლემენტაციაა მსგავსად bash-ის, ksh-ის და csh-სა.
 
 ###Developers
 Project is Written by the group of developers:
-- [Developer 1](https://github.com/dev1)
-- [Developer 2](https://github.com/dev2)
-- [Developer 3](https://github.com/dev3)
-- [Developer 4](https://github.com/dev4)
+- [Developer 1](https://github.com/glaba13)
+- [Developer 2](https://github.com/nikoloze)
+- [Developer 3](https://github.com/tripoliati)
+- [Developer 4](https://github.com/NutsaNutsa)
 
 ###External Libs
-Project uses somelib library for some work
-to install somelib library use
-```bash
-sudo apt-get install somelib
-```
+MakeFile უზრუნველყოფს პროექტის გაშვებისათვის მზადყოფნას, აყენებს ყველა საჭირო ბიბლიოთეკას, რომლებიც თავისმხრივ მოჰყვება კოდს
 
 #Usage
-Describe how to lunch and user the programm
+user-ი თავს ისე გრძნობს, როგორც ტერმინალთან მუშაობისას: შეუძლია ისარგებლოს built-in ფუნქციებით, საკონტროლო ოპერატორებით, გარდა ჩაშენებული ბრძანებებისა fsh-ს ასევე შეუძლია სხვა ნებისმიერი გარე პროგრამის გაშვება
 
 ##Feature 1
 - dsc 1
